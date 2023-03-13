@@ -1,0 +1,22 @@
+D:\VS Projects\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe.config
+D:\VS Projects\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe
+D:\VS Projects\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.pdb
+D:\VS Projects\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.AssemblyReference.cache
+D:\VS Projects\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.SuggestedBindingRedirects.cache
+D:\VS Projects\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.Form1.resources
+D:\VS Projects\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.Properties.Resources.resources
+D:\VS Projects\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.GenerateResource.cache
+D:\VS Projects\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.CoreCompileInputs.cache
+D:\VS Projects\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.exe
+D:\VS Projects\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\Ders Notları\Programlama 2.Sınıf\2.Sınıf 1.Dönem\Görsel Programlama\3.Hafta\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe.config
+C:\Users\ibrah\OneDrive\Masaüstü\Ders Notları\Programlama 2.Sınıf\2.Sınıf 1.Dönem\Görsel Programlama\3.Hafta\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.exe
+C:\Users\ibrah\OneDrive\Masaüstü\Ders Notları\Programlama 2.Sınıf\2.Sınıf 1.Dönem\Görsel Programlama\3.Hafta\hesapmakinesi\hesapmakinesi\bin\Debug\hesapmakinesi.pdb
+C:\Users\ibrah\OneDrive\Masaüstü\Ders Notları\Programlama 2.Sınıf\2.Sınıf 1.Dönem\Görsel Programlama\3.Hafta\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.AssemblyReference.cache
+C:\Users\ibrah\OneDrive\Masaüstü\Ders Notları\Programlama 2.Sınıf\2.Sınıf 1.Dönem\Görsel Programlama\3.Hafta\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.SuggestedBindingRedirects.cache
+C:\Users\ibrah\OneDrive\Masaüstü\Ders Notları\Programlama 2.Sınıf\2.Sınıf 1.Dönem\Görsel Programlama\3.Hafta\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.Form1.resources
+C:\Users\ibrah\OneDrive\Masaüstü\Ders Notları\Programlama 2.Sınıf\2.Sınıf 1.Dönem\Görsel Programlama\3.Hafta\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.Properties.Resources.resources
+C:\Users\ibrah\OneDrive\Masaüstü\Ders Notları\Programlama 2.Sınıf\2.Sınıf 1.Dönem\Görsel Programlama\3.Hafta\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.GenerateResource.cache
+C:\Users\ibrah\OneDrive\Masaüstü\Ders Notları\Programlama 2.Sınıf\2.Sınıf 1.Dönem\Görsel Programlama\3.Hafta\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.csproj.CoreCompileInputs.cache
+C:\Users\ibrah\OneDrive\Masaüstü\Ders Notları\Programlama 2.Sınıf\2.Sınıf 1.Dönem\Görsel Programlama\3.Hafta\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.exe
+C:\Users\ibrah\OneDrive\Masaüstü\Ders Notları\Programlama 2.Sınıf\2.Sınıf 1.Dönem\Görsel Programlama\3.Hafta\hesapmakinesi\hesapmakinesi\obj\Debug\hesapmakinesi.pdb
